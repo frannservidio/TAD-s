@@ -23,16 +23,15 @@ Cada TAD respeta el principio de **encapsulamiento y ocultamiento de informació
 - Paradigma: **Programación Orientada a Objetos / TADs**
 
 ## 📂 Estructura del proyecto
-├── TADAgenda.py
-├── TADCita.py
-├── TADCola.py
-└── main.py
+|---TADAgenda.py
+|---TADCita.py
+|---TADCola.py
+|--- main.py
 
 
 ## ✅ Estado
 ✔️ Funcionalidades implementadas y probadas.  
 ✔️ Código estructurado en módulos separados por TAD.  
-✔️ Carpeta `__pycache__` eliminada del repositorio.
 
 ---
 
